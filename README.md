@@ -2,6 +2,8 @@
 Android NetworkConnect Sample
 ===================================
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/android-NetworkConnect.svg)](https://www.guardrails.io)
+
 This sample demonstrates how to connect to the network and fetch raw HTML using
 HttpsURLConnection. AsyncTask is used to perform the fetch on a background thread.
 
